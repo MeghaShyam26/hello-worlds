@@ -17,7 +17,7 @@
    - '--image'
    - 'gcr.io/$PROJECT_ID/hello-worlds:$COMMIT_SHA'
    - '--region'
-   - 'REGION(us-central1)'
+   - 'us-central1'
    - '--platform'
    - 'managed'
 
