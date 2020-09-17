@@ -18,5 +18,5 @@ steps:
    - 'us-central1'
    - '--platform'
    - 'managed'
- images:
+images:
  - 'gcr.io/kubeflowtask1/hello-worlds:$COMMIT_SHA
