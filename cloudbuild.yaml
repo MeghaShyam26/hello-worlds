@@ -21,5 +21,6 @@
    - '--platform'
    - 'managed'
 
+
  images:
  - 'gcr.io/$_PROJECT_ID/$_SERVICE_NAME:$COMMIT_SHA'
