@@ -20,6 +20,7 @@
    - 'us-central1'
    - '--platform'
    - 'managed'
+   - '--no-traffic'
 
  images:
  - 'gcr.io/$_PROJECT_ID/$_SERVICE_NAME:$COMMIT_SHA'
